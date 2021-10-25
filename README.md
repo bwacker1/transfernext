@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TransferNext
 
 This repository contains backup copies of the HTML files that are used to populate the GitHub pages website for TransferNext, as well as a powerpoint presentation that covers the concept for the business. 
