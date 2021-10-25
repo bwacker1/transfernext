@@ -6,4 +6,6 @@ TransferNext is/was a business idea that sought to create shares in alternative 
 
 The main repo for the TransferNext website can be found at: [https://github.com/mostafajoma/transfernext](https://github.com/mostafajoma/transfernext)
 
+The repo containing the code for the application prototype (under the working name PEConnect) can be found at : [https://github.com/mostafajoma/PEConnect](https://github.com/mostafajoma/PEConnect)
+
 The GitHub pages website can be found at: [https://mostafajoma.github.io/transfernext/](https://mostafajoma.github.io/transfernext/)
